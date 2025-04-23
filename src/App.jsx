@@ -11,7 +11,7 @@ function App() {
     },
     {
       id:2,
-      Name:"Koushik",
+      Name:"Koushik",     
       Job:"Developer"
     },
     {
